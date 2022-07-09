@@ -10,7 +10,7 @@
 <h1 align="center"></h1>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=seniorprodev&theme=github&count_private=true" />
 <h1 align="center"></h1>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=seniorprodev&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="left" height="170px" width="300px" src="https://github-readme-stats.vercel.app/api?username=seniorprodev&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="170px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorprodev&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" /> 
 <br/>
