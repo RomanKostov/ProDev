@@ -11,8 +11,8 @@
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=seniorprodev&theme=github&count_private=true" />
 <h1 align="center"></h1>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=seniorprodev&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorprodev&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="150" />
+<img align="right" height="170px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorprodev&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img height="150" /> 
 <br/>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 <table>
