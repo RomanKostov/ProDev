@@ -1,14 +1,14 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=seniorprodev&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-<!-- 
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
+</p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=seniorprodev.seniorprodev" />
 <img align="right" src="https://img.shields.io/github/followers/seniorprodev?label=Follow&style=social" />
 <h1 align="center"></h1>
-<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=seniorprodev&theme=github&count_private=true" /> -->
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=seniorprodev&theme=github&count_private=true" />
 <h1 align="center"></h1>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=seniorprodev&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorprodev&layout=compact&theme=chartreuse-dark&langs_count=8" />
